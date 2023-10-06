@@ -7,23 +7,25 @@ links:
     url: "https://github.com/Melii99"
   - label: Email
     url: mailto:"mmayen@lcg.unam.mx"
+  - label: Twitter
+    url: "https://twitter.com/meli_mq99"
 output:
   postcards::trestles
 ---
 
 ## About me
 
-I´m an undergraduate student of Genomic Sciences at the National Autonomous University of Mexico. Altough my experience limits to wet-lab work on bacterial antibiotic resistance evolution, my current research interests lean towards developmental biology and epigenetics.
+I am an undergraduate student of Genomic Sciences program at the National Autonomous University of Mexico. My current research interests lean towards developmental biology, transcriptomics and ML. I am currently focusing on the identification of complex phenotypes caused by mutations in the BAF chromatin remodeling complex in the zebra fish model at Hilda Lomeli's laboratory at IBT-UNAM . Additionally, I am an apprentice and a new member of Leonardo Collado's laboratory at the Lieber Institute for Brain Development
+
 
 ## Education
 
-**National Autonomous University of Mexico ** | Morelos, MX
-
-Genomic Sciences undergraduate student | August 2018 - Present
-
+**Genomic Sciences undergraduate student**| National Autonomous University of Mexico | August 2018 - Present
 
 ## Experience
 
 **Evolutionary genomics, Miguel Ángel Carlos Cevallos Gaos Lab.** | Genomic Sciences Center CCG, UNAM | Morelos, México | Undergraduate Researcher | September 2019 - February 2020
 
+**Developmental Genetics and Molecular Physiology, Hilda Maria Lomeli Buyoli Lab.** | Institute of Biotechnology IBT, UNAM | Morelos, México | Undergraduate Researcher |  March 2023 - Present
  
+**Lieber Institute for Brain Development**</font> | <a href="http://lcolladotor.github.io"> Leonardo Collado-Torres Lab</span></a> | Apprentice|  September 2023 - Present
